@@ -60,9 +60,7 @@
 
 初级版本目标： 网络或down机允许消息丢失。即业务完整性不保证 支持高并发 不提供客户端 只做一个内嵌的jar,不单独做一个成品应用服务
 
-https://gitee.com/uploads/images/2017/1030/184641_d5b49317_120349.png
-
-https://gitee.com/uploads/images/2017/1030/184656_390e9cb5_120349.png
-
-https://gitee.com/uploads/images/2017/1030/184856_690b7db0_120349.png
-https://gitee.com/uploads/images/2017/1030/184752_b350d597_120349.png
+![输入图片说明](https://gitee.com/uploads/images/2017/1030/184641_d5b49317_120349.png "0.png")
+![输入图片说明](https://gitee.com/uploads/images/2017/1030/184656_390e9cb5_120349.png "1.png")
+![输入图片说明](https://gitee.com/uploads/images/2017/1030/184856_690b7db0_120349.png "2.png")
+![输入图片说明](https://gitee.com/uploads/images/2017/1030/184752_b350d597_120349.png "3.png")
